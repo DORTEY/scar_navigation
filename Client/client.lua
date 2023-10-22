@@ -1,3 +1,5 @@
+--https://scar-studios.tebex.io/
+
 CreateThread(function()
 	while not NetworkIsPlayerActive(PlayerId())do
 		Wait(0);
